@@ -1,5 +1,5 @@
-Class Aditya{
-public Static void main (String [] args)
+class Aditya{
+public static void main (String[] args)
 {
 System.out.println("Hello world");
 }
